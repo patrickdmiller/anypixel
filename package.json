@@ -1,7 +1,7 @@
 {
   "name": "@patrickdmiller/anypixel",
   "description": "A web-friendly way to build unusual displays",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "directories": {
     "lib": "lib",
